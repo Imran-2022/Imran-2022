@@ -3,7 +3,7 @@
 </p>
 
  -->
- <p>Hello There ! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
+ ## <p>Hello There ! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
 </p>
 
 ```javascript
@@ -32,7 +32,7 @@ const IMRAN = {
 ```
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="right">
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40%" align="right">
   <br><br>
   <samp>
     Hey!! I'm Sarthak Singhal :wave:
