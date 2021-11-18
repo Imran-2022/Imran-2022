@@ -25,7 +25,7 @@
 <a href="https://web.facebook.com/profile.php?id=100071106706650"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
 <a href="mailto:mdimranulhaque.2022@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
- <br><br><br> <br><br><br>
+ <br><br><br><br>
  <p> <b> About Me There !</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
 </p>
 
