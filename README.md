@@ -35,6 +35,7 @@ const IMRAN = {
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40%" align="right">
   <br><br>
   <samp>
+    <br><br><br>
     Hey!! I'm Sarthak Singhal :wave:
     <br><br>
     I work as a Web :globe_with_meridians: developer!
