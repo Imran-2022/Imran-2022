@@ -1,9 +1,9 @@
-<p align="right">
+<!-- <p align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="350">
 </p>
 <p>Hello There ! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
 </p>
-
+ -->
 ```javascript
 const IMRAN = {
     pronouns: "He" | "Him",
