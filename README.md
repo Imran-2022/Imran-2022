@@ -16,7 +16,7 @@
 </p>
 
 <p align="center"> 
-   <a href="www.mdimranulhaque.xyz">www.mdimranulhaque.xyz</a> </br></br>
+   <a target="blank" href="https://www.mdimranulhaque.xyz/">www.mdimranulhaque.xyz</a> </br></br>
   <i> Let's connect and chat! :incoming_envelope: </i> </br>
 </p>
 
