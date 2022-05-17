@@ -16,14 +16,14 @@
 </p>
 
 <p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
+   <a href="www.mdimranulhaque.xyz">www.mdimranulhaque.xyz</a> </br></br>
+  <i> Let's connect and chat! :incoming_envelope: </i> </br>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/md-imranul-haque-892b22223/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
-<!-- <a href="https://www.instagram.com/sarthak02singhal/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp; -->
-<a href="mailto:mdimranulhaque202@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
-<a href="https://web.facebook.com/profile.php?id=100071106706650"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/md-imranul-haque-892b22223/"><img src="https://github.com/Imran-2022/Imran-2022/blob/main/images/linkedin.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="mailto:mdimranulhaque202@gmail.com"><img src="https://github.com/Imran-2022/Imran-2022/blob/main/images/gmail.png" alt="Gmail"></a> &nbsp; &nbsp;
+<a href="https://web.facebook.com/profile.php?id=100071106706650"><img src="https://github.com/Imran-2022/Imran-2022/blob/main/images/facebook.png" alt="Facebook"></a> &nbsp; &nbsp;
 
 </p>
  <br><br><br><br>
